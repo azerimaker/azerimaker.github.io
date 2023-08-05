@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Orxan Əmiraslan</title>
-    <link>https://orkhanamiraslan.com/az/tags/</link>
-    <description>Recent content in Tags on Orxan Əmiraslan</description>
+    <title>Tags on Orkhan Amiraslan</title>
+    <link>https://orkhanamiraslan.com/en/tags/</link>
+    <description>Recent content in Tags on Orkhan Amiraslan</description>
     <image>
-      <title>Orxan Əmiraslan</title>
+      <title>Orkhan Amiraslan</title>
       <url>https://orkhanamiraslan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://orkhanamiraslan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>az-Latn</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://orkhanamiraslan.com/az/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://orkhanamiraslan.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>https://orkhanamiraslan.com/az/tags/first/</link>
+      <link>https://orkhanamiraslan.com/en/tags/first/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://orkhanamiraslan.com/az/tags/first/</guid>
+      <guid>https://orkhanamiraslan.com/en/tags/first/</guid>
       <description></description>
     </item>
     

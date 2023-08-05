@@ -2,40 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://azerimaker.github.io/categories/</loc>
+    <loc>https://orkhanamiraslan.com/en/tags/first/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="az"
-                href="https://azerimaker.github.io/az/categories/"
+                hreflang="az-Latn"
+                href="https://orkhanamiraslan.com/az/tags/first/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://azerimaker.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://azerimaker.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="az"
-                href="https://azerimaker.github.io/az/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://azerimaker.github.io/"
+                hreflang="en-US"
+                href="https://orkhanamiraslan.com/en/tags/first/"
                 />
   </url><url>
-    <loc>https://azerimaker.github.io/tags/</loc>
+    <loc>https://orkhanamiraslan.com/en/posts/1-hello/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="az"
-                href="https://azerimaker.github.io/az/tags/"
+                hreflang="az-Latn"
+                href="https://orkhanamiraslan.com/az/posts/1-hello/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://azerimaker.github.io/tags/"
+                hreflang="en-US"
+                href="https://orkhanamiraslan.com/en/posts/1-hello/"
+                />
+  </url><url>
+    <loc>https://orkhanamiraslan.com/en/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="az-Latn"
+                href="https://orkhanamiraslan.com/az/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://orkhanamiraslan.com/en/"
+                />
+  </url><url>
+    <loc>https://orkhanamiraslan.com/en/posts/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="az-Latn"
+                href="https://orkhanamiraslan.com/az/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://orkhanamiraslan.com/en/posts/"
+                />
+  </url><url>
+    <loc>https://orkhanamiraslan.com/en/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="az-Latn"
+                href="https://orkhanamiraslan.com/az/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://orkhanamiraslan.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://orkhanamiraslan.com/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="az-Latn"
+                href="https://orkhanamiraslan.com/az/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://orkhanamiraslan.com/en/about/"
+                />
+  </url><url>
+    <loc>https://orkhanamiraslan.com/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="az-Latn"
+                href="https://orkhanamiraslan.com/az/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://orkhanamiraslan.com/en/categories/"
                 />
   </url>
 </urlset>
