@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://orkhanamiraslan.com/en/tags/first/</loc>
+    <loc>https://orkhanamiraslan.com/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -12,10 +12,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://orkhanamiraslan.com/en/tags/first/"
+                href="https://orkhanamiraslan.com/tags/first/"
                 />
   </url><url>
-    <loc>https://orkhanamiraslan.com/en/posts/1-hello/</loc>
+    <loc>https://orkhanamiraslan.com/posts/1-hello/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -25,10 +25,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://orkhanamiraslan.com/en/posts/1-hello/"
+                href="https://orkhanamiraslan.com/posts/1-hello/"
                 />
   </url><url>
-    <loc>https://orkhanamiraslan.com/en/</loc>
+    <loc>https://orkhanamiraslan.com/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -38,10 +38,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://orkhanamiraslan.com/en/"
+                href="https://orkhanamiraslan.com/"
                 />
   </url><url>
-    <loc>https://orkhanamiraslan.com/en/posts/</loc>
+    <loc>https://orkhanamiraslan.com/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -51,10 +51,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://orkhanamiraslan.com/en/posts/"
+                href="https://orkhanamiraslan.com/posts/"
                 />
   </url><url>
-    <loc>https://orkhanamiraslan.com/en/tags/</loc>
+    <loc>https://orkhanamiraslan.com/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -64,10 +64,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://orkhanamiraslan.com/en/tags/"
+                href="https://orkhanamiraslan.com/tags/"
                 />
   </url><url>
-    <loc>https://orkhanamiraslan.com/en/about/</loc>
+    <loc>https://orkhanamiraslan.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="az-Latn"
@@ -76,10 +76,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://orkhanamiraslan.com/en/about/"
+                href="https://orkhanamiraslan.com/about/"
                 />
   </url><url>
-    <loc>https://orkhanamiraslan.com/en/categories/</loc>
+    <loc>https://orkhanamiraslan.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="az-Latn"
@@ -88,7 +88,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://orkhanamiraslan.com/en/categories/"
+                href="https://orkhanamiraslan.com/categories/"
                 />
   </url>
 </urlset>
